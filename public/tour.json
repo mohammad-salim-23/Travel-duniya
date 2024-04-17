@@ -1,0 +1,47 @@
+
+     [
+      {
+        "id": 1,
+        "image": "https://img.freepik.com/premium-photo/careful-progress-group-mountaineers-mountainous-terrain_148840-48607.jpg?w=900",
+        "place_name": "Mount Everest Base Camp Trek",
+        "location": "Nepal",
+        "description": "Embark on an adventure to the iconic Mount Everest Base Camp. Trek through breathtaking landscapes, experience Sherpa culture, and witness stunning views of the world's tallest peak."
+      },
+      {
+        "id": 2,
+        "image": "https://img.freepik.com/premium-photo/photo-real-backpacker-overlooking-machu-picchu-backpack-traveling-theme-full-depth-field_980716-97931.jpg?w=360",
+        "place_name": "Machu Picchu Exploration",
+        "location": "Peru",
+        "description": "Discover the ancient ruins of Machu Picchu nestled amidst the Andes mountains. Explore the mysteries of the Inca civilization and hike the famous Inca Trail to reach this UNESCO World Heritage site."
+      },
+      {
+        "id": 3,
+        "image": "https://img.freepik.com/premium-photo/safari-expedition-tracking-big-game-generative-ai_893610-6874.jpg?w=900",
+        "place_name": "Safari Adventure in Serengeti",
+        "location": "Tanzania",
+        "description": "Embark on an unforgettable safari in the vast Serengeti National Park. Witness the 'Big Five' and experience the stunning beauty of the African savannah on this once-in-a-lifetime journey."
+      },
+      {
+        "id": 4,
+        "image": "https://img.freepik.com/free-photo/realistic-shark-ocean_23-2151415317.jpg?t=st=1713060984~exp=1713064584~hmac=d14eba4f4120738b895a953738f3719cbb5e328d060f9cc4fcfc208290290b2d&w=900",
+        "place_name": "Great Barrier Reef Snorkeling",
+        "location": "Australia",
+        "description": "Dive into the vibrant underwater world of the Great Barrier Reef. Explore colorful coral formations, swim alongside exotic marine life, and marvel at the beauty of one of the world's natural wonders."
+      },
+      {
+        "id": 5,
+        "image": "https://img.freepik.com/premium-photo/mesmerizing-shot-aurora-borealis-night-sky-captured-norway_198067-153919.jpg?w=900",
+        "place_name": "Northern Lights Adventure",
+        "location": "Iceland",
+        "description": "Chase the mesmerizing Northern Lights across the Icelandic sky. Experience the magic of this natural phenomenon as vibrant colors dance overhead in the remote wilderness of Iceland."
+      },
+      {
+        "id": 6,
+        "image": "https://img.freepik.com/free-photo/portrait-astronaut-space-suit-doing-regular-human-activity_23-2151263696.jpg?t=st=1713061151~exp=1713064751~hmac=a14239a83804cc7d505261a74fbbc36852676cbea669eae4ac021d5e6f71a590&w=900",
+        "place_name": "Galapagos Islands Exploration",
+        "location": "Ecuador",
+        "description": "Discover the unique biodiversity of the Galapagos Islands. Encounter fascinating wildlife, from giant tortoises to blue-footed boobies, and explore the volcanic landscapes that inspired Charles Darwin's theory of evolution."
+      }
+    ]
+  
+  
