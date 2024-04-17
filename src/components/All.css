@@ -1,3 +1,5 @@
-.marquee-hover {
-    cursor: pointer; /* Optional: Change cursor on hover */
+.banner-img{
+    object-fit:cover;
+   height:550px;
+    width:1300px;
 }

@@ -6,6 +6,8 @@ import {
 import Home from "../pages/Home";
 import Roots from "../components/Roots";
 import Destinations from "../components/Destinations";
+import Login from "../components/Login";
+import Register from "../components/Register";
  
 
   const router = createBrowserRouter([
@@ -22,6 +24,14 @@ import Destinations from "../components/Destinations";
             path:`/Tour/:id`,
             element:<Destinations></Destinations>,
             loader:()=>fetch(`/tour.json`)
+        },
+        {
+          path:"/login",
+          element:<Login></Login>
+        },
+        {
+          path:"/register",
+          element:<Register></Register>,
         }
 
       ]

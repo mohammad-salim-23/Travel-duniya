@@ -1,15 +1,10 @@
 import { NavLink, Link, useParams } from "react-router-dom";
 import travel from "../assets/icons/Travel.jpg";
-import { useState } from "react";
+
 
 const Navbar = () => {
   const { id } = useParams();
-  const [searchValue, setSearchValue] = useState("");
-
-  const handleSearch = () => {
-    // Implement search functionality here
-    console.log("Search:", searchValue);
-  };
+ 
 
   const navLinks = (
     <>
@@ -27,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-purple-300">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -52,7 +47,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Link to="/login"><button className="btn bg-purple-500 font-bold">Login</button></Link>
+          <Link to="/login"><button className="btn bg-purple-500 font-bold">Sign in</button></Link>
         </div>
       </div>
     </div>

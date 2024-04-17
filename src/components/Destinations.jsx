@@ -40,9 +40,10 @@ const Destinations = () => {
             <h1 className="text-5xl font-bold text-purple-400">
               {details?.place_name}
             </h1>
-            <h3 className="text-2xl font-semibold">
+            <h3 className="text-2xl font-semibold mt-2">
               Location: {details?.location}
             </h3>
+            <p className="text-xl font-semibold text-green-800">cost: {details.cost}</p>
             <p className="py-6">{details?.description}</p>
             <button className="btn bg-purple-500">Booking</button>
           </div>
